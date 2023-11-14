@@ -1,1 +1,2 @@
 this is something file for my repo
+here i change something using terminal from vs code
